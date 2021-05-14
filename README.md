@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">    
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Logo inicio">    
 Me chamo João Pedro, sou <strong>desenvolvedor web</strong> e estou sempre em busca de novos conhecimentos.<br>
 Estudo sistemas de informação pela Universidade Cândido Mendes e estou no 2° Período.<br>
 trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportunidades na área de desenvolvimento.
@@ -25,4 +25,4 @@ trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportu
 
   <a href="https://www.instagram.com/eupkb1337/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eupkb1337/"/></a>
-</p>
+</p>    
