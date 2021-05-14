@@ -1,8 +1,7 @@
-<img src = "https://images.squarespace-cdn.com/content/v1/560949d7e4b01f8778bb857b/1571067595147-GO6SSZBKSA8541OA4FI7/ke17ZwdGBToddI8pDm48kIgxUUdAdUQVB7iPt0OxL7xZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyvKa_XzS046k86Rz67qMry73AagQKElc5-v2myb_2lcFeQFldG5ptAH0I8wZfKL_E/giphy+%282%29.gif?format=500w" min-width = "400px" max-width = "400px" largura = "400px" align = "right" alt = "Logo Inicio" >
-<p align="left">    
-Me chamo João Pedro, sou <strong>desenvolvedor web</strong>.<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">    
+Me chamo João Pedro, sou <strong>desenvolvedor web</strong>e estou em busca de novos conhecimentos.<br>
 Atualmente estudo Sistemas de Informação pela Universidade Cândido Mendes e estou no 2° Período.<br>
-Estou sempre em busca de novos conhecimentos e, procuro uma oportunidade na área de <strong>desenvolvedor back-end</strong>
+trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportunidades na área de desenvolvimento.
 </p>
 
 <p align="left">
