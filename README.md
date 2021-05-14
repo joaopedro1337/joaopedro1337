@@ -49,3 +49,11 @@ Trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportu
 <code><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="STACK OVERFLOW"/></code>
 <code><img height="30" src="https://camo.githubusercontent.com/5b7886225855c2c5ac8bcc15effcb289c238c597680d61c24e5e7541af59ee10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465" alt="ANDROID"/></code>
 <code><img height="30" src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="WINDOWS"/></code>
+
+<p align="center">
+<br>
+<br>
+  Obrigado por visitar meu GITHUB. Qualquer sugestão, dúvidas ou propostas, basta me chamar nas redes sociais listadas acima.<br>
+  Este perfil se encontra sempre atualizado.
+  <br>
+</p>
