@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">    
-Me chamo João Pedro, sou <strong>desenvolvedor web</strong>e estou em busca de novos conhecimentos.<br>
-Atualmente estudo Sistemas de Informação pela Universidade Cândido Mendes e estou no 2° Período.<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">    
+Me chamo João Pedro, sou <strong>desenvolvedor web</strong> e estou sempre em busca de novos conhecimentos.<br>
+Estudo sistemas de informação pela Universidade Cândido Mendes e estou no 2° Período.<br>
 trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportunidades na área de desenvolvimento.
 </p>
 
