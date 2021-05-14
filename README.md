@@ -1,4 +1,4 @@
-<img src = "https://images.squarespace-cdn.com/content/v1/560949d7e4b01f8778bb857b/1571067595147-GO6SSZBKSA8541OA4FI7/ke17ZwdGBToddI8pDm48kIgxUUdAdUQVB7iPt0OxL7xZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyvKa_XzS046k86Rz67qMry73AagQKElc5-v2myb_2lcFeQFldG5ptAH0I8wZfKL_E/giphy+%282%29.gif?format=500w" min-width = "400px" max-width = "400px" largura = "400px" align = "right" alt = "Computador iuriCode">
+<img src = "https://images.squarespace-cdn.com/content/v1/560949d7e4b01f8778bb857b/1571067595147-GO6SSZBKSA8541OA4FI7/ke17ZwdGBToddI8pDm48kIgxUUdAdUQVB7iPt0OxL7xZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyvKa_XzS046k86Rz67qMry73AagQKElc5-v2myb_2lcFeQFldG5ptAH0I8wZfKL_E/giphy+%282%29.gif?format=500w" min-width = "400px" max-width = "400px" largura = "400px" align = "right" alt = "Logo Inicio" >
 <p align="left">    
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
