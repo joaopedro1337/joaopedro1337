@@ -1,7 +1,7 @@
 <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
 
 <h3> :man: &nbsp;Sobre mim </h3>
-Me chamo João Pedro, sou <strong>desenvolvedor full-stack</strong> e estou sempre em busca de novos conhecimentos.<br>
+Me chamo João Pedro, sou <strong>desenvolvedor back-end</strong> e estou sempre em busca de novos conhecimentos.<br>
 Estudo Sistemas de informação pela Universidade Cândido Mendes e estou no 2° período.<br>
 Trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportunidades na área de desenvolvimento.
 </p>
