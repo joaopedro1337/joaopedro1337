@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 Me chamo João Pedro, sou <strong>desenvolvedor back-end</strong> e estou sempre em busca de novos conhecimentos.<br>
-Estudo Sistemas de informação pela Universidade Cândido Mendes e estou no 2° período.<br>
+Estudo Análise e desenvolvimento de sistemas pela Universidade Cândido Mendes e estou no 2° período.<br>
 Trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportunidades na área de desenvolvimento.
 </p>
 
