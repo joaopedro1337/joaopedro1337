@@ -1,5 +1,5 @@
 <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
-<img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaogoes1337&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaopedro1337&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <h3> :man: &nbsp;Sobre mim </h3>
 Me chamo João Pedro, sou <strong>desenvolvedor back-end</strong> e estou sempre em busca de novos conhecimentos.<br>
