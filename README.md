@@ -1,5 +1,4 @@
 <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
-<img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaopedro1337&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <h3> :man: &nbsp;Sobre mim </h3>
 Me chamo João Pedro, sou <strong>desenvolvedor back-end</strong> e estou sempre em busca de novos conhecimentos.<br>
@@ -37,6 +36,8 @@ Trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportu
   <code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/></code>
   <code><img height="30" src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="CSS3"/></code>
 
+  <img height="273em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaopedro1337&layout=compact&langs_count=8&theme=tokyonight"/>
+  
 <h3>📑 Em andamento</h3>
   <code><img height="30" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQUERY"/></code>
   <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODEJS"/></code>
