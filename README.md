@@ -2,8 +2,8 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 Me chamo João Pedro, sou <strong>desenvolvedor back-end</strong> e estou sempre em busca de novos conhecimentos.<br>
-Estudo Sistemas de informação pela Universidade Cândido Mendes, onde me encontro no 2° período.<br>
-Trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportunidades na área de desenvolvimento.
+Estudo Sistemas de informação pela Universidade Cândido Mendes, onde me encontro no 3° período.<br>
+Trabalho atualmente como DevOps ☁️🐳
 </p>
 
 <p align="left">
@@ -22,8 +22,7 @@ Trabalho atualmente como suporte técnico de TI, mas estou buscando novas oportu
 </p>
 
 <h3>💻 Tecnologias</h3> 
-  <code><img height="30" src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="JAVA"/></code>
-  <code><img height="30" src="https://camo.githubusercontent.com/4bde567a4772f994f22418e4505a1ac8dc6e6219100251aa79b7279e02c8bb07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" alt="SPRING"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODEJS"/></code>
   <code><img height="30" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" alt="HEROKU"/></code>
   <code><img height="30" src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="POSTMAN"/></code>
   <code><img height="30" src="https://camo.githubusercontent.com/5f35d04a57b78b2be858db418ce7f31eaed484b9373568507544b3d9a2327237/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742532302d2532333030376163632e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TYPERSCRIPT"/></code>
