@@ -31,6 +31,7 @@ Estudo Sistemas de informação pela Universidade Cândido Mendes, onde me encon
 <h3>📑 Em andamento</h3>
   <code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></code>
   <code><img height="30" src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></code>
   <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT"/></code>
 
 <h3>💾 OS</h3>
