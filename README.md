@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 Me chamo João Pedro, sou <strong>DevOps Enginner ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
-Estudo Análise e Desenvolvimento de Sistemas pela Universidade Cândido Mendes, onde me encontro no 4° período.<br>
+Estudo Análise e Desenvolvimento de Sistemas pela Universidade Cândido Mendes, onde me encontro no 5° período.<br>
 </p>
 
 <p align="left">
