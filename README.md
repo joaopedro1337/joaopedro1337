@@ -1,7 +1,7 @@
 <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
 
 <h3> :man: &nbsp;Sobre mim </h3>
-Me chamo João Pedro, sou <strong>DevOps Enginner ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
+Me chamo João Pedro, sou <strong>DevOps Engineer ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
 Estudo Análise e Desenvolvimento de Sistemas pela Universidade Cândido Mendes, onde me encontro no 5° período.<br>
 </p>
 
