@@ -11,7 +11,7 @@ Graduated in Systems Analysis and Development from Cândido Mendes University.<b
 </p>
 
 <p align="left">
-  <h4>📱 Entre em contato comigo, através das redes sociais abaixo :   ⤵️ </h4>
+  <h4>📱 Call me :   ⤵️ </h4>
   </p>
 
 <p align="left">
