@@ -1,8 +1,13 @@
 <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
 
 <h3> :man: &nbsp;Sobre mim </h3>
-Me chamo João Pedro, sou <strong>DevOps Engineer ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
+[PT-BR] Me chamo João Pedro, tenho 19 anos, sou <strong>DevOps Engineer ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cândido Mendes.<br>
+</p>
+
+<h3> :man: &nbsp;About me </h3>
+[EN-US] My name is João Pedro, I'm 19 years old, I'm <strong>DevOps Engineer ☁️</strong> and I'm always looking for new knowledge.<br>
+Graduated in Systems Analysis and Development from Cândido Mendes University.<br>
 </p>
 
 <p align="left">
