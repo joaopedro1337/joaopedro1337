@@ -15,7 +15,7 @@ Graduated in Systems Analysis and Development from Cândido Mendes University.<b
   </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaopedro1337" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/dev-joaobraga" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <a href="http://api.whatsapp.com/send?phone=5521972563907" alt="WhatsApp">
