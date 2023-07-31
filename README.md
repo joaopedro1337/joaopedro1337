@@ -6,7 +6,7 @@ Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cândido Men
 </p>
 
 <h3> &nbsp;About me </h3>
-[EN-US] My name is João Pedro, I'm 19 years old, I'm <strong>DevOps Engineer ☁️</strong> and I'm always looking for new knowledge.<br>
+[EN-US] My name is João Pedro, I'm 21 years old, I'm <strong>DevOps Engineer ☁️</strong> and I'm always looking for new knowledge.<br>
 Graduated in Systems Analysis and Development from Cândido Mendes University.<br>
 </p>
 
