@@ -1,12 +1,12 @@
-<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
+<img src="[http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif](https://media.licdn.com/dms/image/D4D22AQGxvcZHMtKsWw/feedshare-shrink_800/0/1704754922241?e=1707955200&v=beta&t=r_kjkfLPWfXyp9vrEFgnqsSmGb_lWWBZhlD2psTF2wE)" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
 
 <h3> &nbsp;Sobre mim </h3>
-[PT-BR] Me chamo João Pedro, tenho 21 anos, sou <strong>DevOps Engineer ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
+[PT-BR] Me chamo João Pedro, tenho 22 anos, sou <strong>DevOps Engineer ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cândido Mendes.<br>
 </p>
 
 <h3> &nbsp;About me </h3>
-[EN-US] My name is João Pedro, I'm 21 years old, I'm <strong>DevOps Engineer ☁️</strong> and I'm always looking for new knowledge.<br>
+[EN-US] My name is João Pedro, I'm 22 years old, I'm <strong>DevOps Engineer ☁️</strong> and I'm always looking for new knowledge.<br>
 Graduated in Systems Analysis and Development from Cândido Mendes University.<br>
 </p>
 
@@ -41,10 +41,3 @@ Graduated in Systems Analysis and Development from Cândido Mendes University.<b
 
 <h3>💾 OS</h3>
 <code><img height="30" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX"/></code>
-<p align="center">
-<br>
-<br>
-  Obrigado por visitar meu GITHUB. Qualquer sugestão, dúvidas ou propostas, basta me chamar nas redes sociais listadas acima.<br>
-  Este perfil se encontra sempre atualizado.
-  <br>
-</p>
