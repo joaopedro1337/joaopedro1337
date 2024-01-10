@@ -1,13 +1,11 @@
 <img src="https://media.licdn.com/dms/image/D4D22AQGxvcZHMtKsWw/feedshare-shrink_800/0/1704754922241?e=1707955200&v=beta&t=r_kjkfLPWfXyp9vrEFgnqsSmGb_lWWBZhlD2psTF2wE" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
 
 <h3> &nbsp;Sobre mim </h3>
-[PT-BR] Me chamo João Pedro, tenho 22 anos, sou <strong>DevOps Engineer ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
-Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cândido Mendes.<br>
+[PT-BR] Graduado em Análise e Desenvolvimento de Sistemas, sou um DevOps Engineer com 2 anos de experiência. Especializado em ambientes de nuvem (AWS, Azure, GCP), destaco-me por habilidades em Kubernetes, Terraform, Ansible, Helm e Docker. Comprometido, orientado a objetivos e analítico, busco contribuir para a automação e resolução de problemas, oferecendo excelência operacional à sua organização.<br>
 </p>
 
 <h3> &nbsp;About me </h3>
-[EN-US] My name is João Pedro, I'm 22 years old, I'm <strong>DevOps Engineer ☁️</strong> and I'm always looking for new knowledge.<br>
-Graduated in Systems Analysis and Development from Cândido Mendes University.<br>
+[EN-US] Graduated in Analysis and Systems Development, I am a DevOps Engineer with 2 years of experience. Specialized in cloud environments (AWS, Azure, GCP), I excel in Kubernetes, Terraform, Ansible, Helm, and Docker. Committed, goal-oriented, and analytical, I seek to contribute to automation and problem resolution, providing operational excellence to your organization.<br>
 </p>
 
 <p align="left">
