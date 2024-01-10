@@ -11,7 +11,7 @@ Graduated in Systems Analysis and Development from Cândido Mendes University.<b
 </p>
 
 <p align="left">
-  <h4>📱 Call me :   ⤵️ </h4>
+  <h3>📱 Call me : </h3>
   </p>
 
 <p align="left">
@@ -34,7 +34,7 @@ Graduated in Systems Analysis and Development from Cândido Mendes University.<b
   <code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></code>
   <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/></code>
 
-<h3>💾 Database Technologies </h3>
+<h3>Database Technologies </h3>
 <code><img height="30" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DYNAMODB"/></code>
 <code><img height="30" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MARIADB"/></code>
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB"/></code>
@@ -42,7 +42,7 @@ Graduated in Systems Analysis and Development from Cândido Mendes University.<b
 <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL"/></code>
 <code><img height="30" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL SERVER"/></code>
 
-<h3>💾 CI/CD</h3>
+<h3>CI/CD</h3>
 <code><img height="30" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CIRCLE CI"/></code>
 <code><img height="30" src="https://img.shields.io/badge/Drone_CI-212121?style=for-the-badge&logo=drone&logoColor=white" alt="DRONE CI"/></code>
 <code><img height="30" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GITHUB ACTIONS"/></code>
