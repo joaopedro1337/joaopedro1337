@@ -1,4 +1,4 @@
-<img src="[http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif](https://media.licdn.com/dms/image/D4D22AQGxvcZHMtKsWw/feedshare-shrink_800/0/1704754922241?e=1707955200&v=beta&t=r_kjkfLPWfXyp9vrEFgnqsSmGb_lWWBZhlD2psTF2wE)" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
+<img src="https://media.licdn.com/dms/image/D4D22AQGxvcZHMtKsWw/feedshare-shrink_800/0/1704754922241?e=1707955200&v=beta&t=r_kjkfLPWfXyp9vrEFgnqsSmGb_lWWBZhlD2psTF2wE" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">    
 
 <h3> &nbsp;Sobre mim </h3>
 [PT-BR] Me chamo João Pedro, tenho 22 anos, sou <strong>DevOps Engineer ☁️</strong> e estou sempre em busca de novos conhecimentos.<br>
