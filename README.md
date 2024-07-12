@@ -1,9 +1,13 @@
 <h3> &nbsp;Sobre mim </h3>
-[PT-BR] Graduado em Análise e Desenvolvimento de Sistemas, sou um DevOps Engineer com 2 anos de experiência. Especializado em ambientes de nuvem (AWS, Azure, GCP), destaco-me por habilidades em Kubernetes, Terraform, Ansible, Helm e Docker. Comprometido, orientado a objetivos e analítico, busco contribuir para a automação e resolução de problemas, oferecendo excelência operacional à sua organização.<br>
+[PT-BR] Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cândido Mendes, possuo uma sólida formação acadêmica e três anos de experiência como SRE/DevOps Engineer. Sou dinâmico, valorizo a filosofia CALMS (Cultura, Automação, Lean, Mensuração e Compartilhamento) e as práticas SRE, orientado a objetivos, atento aos detalhes e focado na resolução de problemas. Minha trajetória profissional é dedicada ao desenvolvimento, automação, implementação e otimização de ambientes em nuvem e clusters de alta disponibilidade.
+
+Tenho conhecimento avançado em AWS e conhecimentos intermediários em Azure e GCP. Sou especializado em diversas ferramentas e tecnologias, incluindo Kubernetes, Terraform, Pulumi, Ansible, Helm e Docker, além de soluções de monitoramento como Datadog, Grafana e ELK stack. Colaboro estreitamente com equipes de desenvolvimento e operações, criando pipelines de CI/CD eficientes, automatizando tarefas repetitivas e otimizando processos de desenvolvimento e monitoramento.<br>
 </p>
 
 <h3> &nbsp;About me </h3>
-[EN-US] Graduated in Analysis and Systems Development, I am a DevOps Engineer with 2 years of experience. Specialized in cloud environments (AWS, Azure, GCP), I excel in Kubernetes, Terraform, Ansible, Helm, and Docker. Committed, goal-oriented, and analytical, I seek to contribute to automation and problem resolution, providing operational excellence to your organization.<br>
+[EN-US] Graduated in Systems Analysis and Development from Universidade Cândido Mendes, I have a solid academic background and three years of experience as an SRE/DevOps Engineer. I am dynamic, I value the CALMS philosophy (Culture, Automation, Lean, Measurement and Sharing) and SRE practices, goal-oriented, attentive to details and focused on problem solving. My professional career is dedicated to the development, automation, implementation and optimization of cloud environments and high availability clusters.
+
+I have advanced knowledge in AWS and intermediate knowledge in Azure and GCP. I specialize in several tools and technologies, including Kubernetes, Terraform, Pulumi, Ansible, Helm and Docker, as well as monitoring solutions such as Datadog, Grafana and ELK stack. I collaborate closely with development and operations teams, creating efficient CI/CD pipelines, automating repetitive tasks, and optimizing development and monitoring processes.a<br>
 </p>
 
 <p align="left">
